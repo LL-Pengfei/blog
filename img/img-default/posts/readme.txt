@@ -1,0 +1,1 @@
+In _posts/, Add in file header background: '/img/posts/01.jpg' to access.
