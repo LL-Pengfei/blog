@@ -2,8 +2,8 @@
 layout: post
 title:  "Thoughts on NUS CS"
 date:   2022-05-12 15:09:00 +0800
-categories: blog
-background: '/images/background.jpg'
+# categories: blog
+background: '/img/background.jpg'
 ---
 I have recently been talking to a couple of friends who have completed their Computer Science (CS) education at the National University of Singapore (NUS), and we have shared our perspectives on the NUS CS education - or rather, what's bad or somewhat lacking about it. As it turns out, our perspectives do share certain commonality. While I will be sharing my opinions on the dark side of NUS CS education, I want to preface them by saying I am actually very grateful that I went through NUS CS education and for what I will be sharing subsequently, I mean them in the nicest and least offensive way possible.
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "What Kind of Day Has It Been, Part II (July, 2024)"
 date:   2024-07-13 15:09:00 +0800
-categories: blog
-background: '/images/background.jpg'
+# categories: blog
+background: '/img/background.jpg'
 ---
 So in the last blog post, I talked about how I barely fought off my final year. That was the first time I actually thought that maybe, just maybe, I couldn't survive as there were too many battles that were too difficult by themselves to fight off at the same time - No work authorization leading to no job interviews whatsoever; Difficult 4k Physics modules and difficult Physics final year thesis; Skyrocketing rental prices; NUS accommodation student leader tried to screw me; etc. So far in my life, I have had 3 major periods of struggles: one during my time at Dunman High, one after an elongated half-self-imposed lockdown due to COVID, as well as this one. This particular period of struggle is probably a close second in terms of severity.
 

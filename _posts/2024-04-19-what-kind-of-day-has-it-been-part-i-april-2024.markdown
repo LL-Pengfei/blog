@@ -2,8 +2,8 @@
 layout: post
 title:  "What Kind of Day Has It Been, Part I (April, 2024)"
 date:   2024-04-19 15:09:00 +0800
-categories: blog
-background: '/images/background.jpg'
+# categories: blog
+background: '/img/background.jpg'
 ---
 It has been nearly 2 years since my last blog post here, and it is not necessarily because I was busy (although busy I was indeed), but more because after a while, when I re-read the stuff I posted, I felt a little bit too cringe sometimes. So I not only became inactive (not saying I was very active before...), but I even marked this repo as private for a while. But now, I suppose if I simply do not update, this repo might as well be closed down for good - and it would be a shame because I do like to pen down my thoughts from time to time. So I suppose I will endeavour to keep this blog site updated as long as time permits.
 
