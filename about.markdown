@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-description: This is what I do.
+description: Welcome to Pengfei's personal blog!
 background: '/img/background.jpg'
 ---
 
