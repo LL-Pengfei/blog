@@ -3,7 +3,7 @@ layout: post
 title:  "The Decision"
 date:   2021-12-12 15:09:00 +0800
 # categories: blog
-background: '/img/background-20211212.jpg'
+background: '/img/background-20211212.png'
 ---
 'Gaudi, to his credit, never gave up on his dream, but that's not usually how it goes. I mean, usually, it isn't a speeding bus that keeps the brown, pointy, weird church from getting built. Most of the time, it's just too difficult or too expensive, or too scary. It's only once you've stopped that you realize how hard it is to start again, so you force yourself not to want it. But it's always there, and until you finish it, it will always be (unfinished).' - How I Met Your Mother, Season 6 Episode 3
 
