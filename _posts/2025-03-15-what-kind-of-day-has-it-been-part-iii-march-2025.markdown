@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What Kind of Day Has It Been, Part III (March, 2025)"
-date:   2024-03-15 15:09:00 +0800
+date:   2025-03-15 15:09:00 +0800
 # categories: blog
 background: '/img/background-20250315.png'
 ---
