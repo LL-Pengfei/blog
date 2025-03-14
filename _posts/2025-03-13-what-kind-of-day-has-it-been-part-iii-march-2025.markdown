@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "What Kind of Day Has It Been, Part III (March, 2025)"
-date:   2025-03-15 15:09:00 +0800
+date:   2025-03-13 15:09:00 +0800
 # categories: blog
-background: '/img/background-20250315.png'
+background: '/img/background-20250313.png'
 ---
 Kirk (Captain's Log): 'The more time we spend out here, the harder it is to tell where one day ends and the next one begins... As for me, things have started to feel a little episodic. The farther out we go, the more I find myself wondering what it is we are trying to accomplish. If the universe is truly endless, then are we not striving for something forever out of reach?'
 
